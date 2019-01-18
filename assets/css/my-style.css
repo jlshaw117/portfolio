@@ -25,3 +25,14 @@
     }
     
 }
+
+/* Resume */
+
+#main .major {
+    text-align: center;
+}
+
+#resume {
+    display: flex;
+    justify-content: space-around;
+}
