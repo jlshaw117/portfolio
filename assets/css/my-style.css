@@ -1,0 +1,21 @@
+#profile-img {
+    width: 169px;
+    border-radius: 90px;
+    margin-right: 18px;
+}
+
+#intro #profile-img {
+    display: none;
+}
+
+@media screen and (max-width: 1280px) {
+
+    #sidebar #profile-img {
+    display: none;
+    }
+
+    #intro #profile-img {
+        display: block;
+    }
+    
+}
