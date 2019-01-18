@@ -8,6 +8,12 @@
     display: none;
 }
 
+#intro .inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 @media screen and (max-width: 1280px) {
 
     #sidebar #profile-img {
