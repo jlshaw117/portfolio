@@ -73,3 +73,9 @@
     display: flex;
     justify-content: space-around;
 }
+
+/* form */
+
+.spam-blocker {
+    margin-bottom: 32px;
+}
