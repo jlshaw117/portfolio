@@ -16,6 +16,10 @@
     align-items: center;
 }
 
+.purple-button {
+    background: rgb(73, 20, 117)
+}
+
 @media screen and (max-width: 1280px) {
 
     #sidebar #profile-img {
@@ -29,6 +33,14 @@
 }
 
 /* About me */
+
+.section-one-title {
+    display: flex;
+}
+
+.resume-link {
+    background: darkred;
+}
 
 .skills {
     height: 119px;
@@ -61,7 +73,11 @@
     font-size: 32px;
 }
 
+/* Projects */
 
+.site-link {
+    background: darkblue;
+}
 
 /* Resume */
 
